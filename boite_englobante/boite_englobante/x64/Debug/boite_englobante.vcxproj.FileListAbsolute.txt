@@ -1,0 +1,2 @@
+C:\Users\etien\source\repos\boite_englobante\boite_englobante\x64\Debug\boite_englobante.vcxproj.CopyComplete
+C:\Users\etien\source\repos\Hackathon2024GIG\boite_englobante\boite_englobante\x64\Debug\boite_englobante.vcxproj.CopyComplete
